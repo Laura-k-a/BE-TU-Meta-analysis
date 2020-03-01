@@ -1,0 +1,25 @@
+Rank,Region_rank,Region,Publication_period,Studies
+1,01USA,USA,2010-2019,54
+1,01USA,USA,Pre-2010,34
+2,02China,China,2010-2019,26
+2,02China,China,Pre-2010,1
+5,05Australia,Australia,2010-2019,12
+4,04Europe,Europe,2010-2019,10
+4,04Europe,Europe,Pre-2010,3
+5,05Australia,Australia,Pre-2010,0
+5,05Canada,Canada,2010-2019,9
+5,05Canada,Canada,Pre-2010,1
+6,06Asia (other),Asia (other),2010-2019,5
+6,06Asia (other),Asia (other),Pre-2010,2
+7,07South Korea,South Korea,2010-2019,7
+7,07South Korea,South Korea,Pre-2010,0
+8,08Multiple,Multiple,2010-2019,4
+8,08Multiple,Multiple,Pre-2010,2
+9,09UK,UK,2010-2019,6
+9,09UK,UK,Pre-2010,0
+10,10MENA,MENA,2010-2019,4
+10,10MENA,MENA,Pre-2010,1
+11,11Latin America,Latin America,2010-2019,2
+11,11Latin America,Latin America,Pre-2010,1
+12,12India,India,2010-2019,3
+12,12India,India,Pre-2010,0
